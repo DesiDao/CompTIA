@@ -14,15 +14,15 @@
 
 
 ### Operating system (OS) concepts
-  - Windows Registry
-  - System hardening
-  - File structure
+  - Windows Registry: Hierarchical database used by the Windows operating system to store configuration settings and options for both the OS and installed applications.
+  - System hardening: Process of securing an OS by reducing its surface of vulnerability. This includes patching vulnerabilities, disabling unnecessary services, configuring security settings, and applying security best practices.
+  - File structure: 
     - Configuration file locations
-  - System processes
-  - Hardware architecture
+  - System processes: Programs that the operating system manages and executes, ranging from critical system functions to user applications.
+  - Hardware architecture: Physical components of a system and how they interact with the software. This includes CPU, memory, storage devices, and network interfaces.
 
 ### Infrastructure concepts
-  - Serverless
+  - Serverless: 
   - Virtualization
   - Containerization
 
